@@ -1,0 +1,51 @@
+# Does the animal have legs?
+R Does it live underground?
+L Does it chew grass?
+RL Were you thinking of an Earthworm?
+RR Does it live under water?
+LL Does it have huge horns?
+LR Does it bark?
+RRL Does it jump?
+RRR Does it move very slowly?
+LRL Does it have yellow eyes?
+LRR Does it have feathers?
+LRRL Does it fly?
+LRRR Does it hop?
+RRLL Were you thinking of a Dolphin?
+RRLR Does it have alot of sharp teeth?
+LRRRL Were you thinking of a Kangaroo?
+LRRRR Does it have a trunk?
+LLL Were you thinking of a Deer?
+LLR Does it have black and white stripes?
+RRLRL Does It Skin Itself?
+RRLRR Does it skin itself?
+LRRLR Were you thinking of a Chicken?
+LRRLL Were you thinking of a Pigeon?
+LRRRRL Were you thinking of an Elephant?
+LRRRRR Does it have antennas?
+LRRRRRL Were you thinking of a Cockroach?
+LRRRRRR Does it swing around trees?
+RRRL Were you thinking of a Snail?
+RRRR Were you thinking of a Snake?
+LRRRRRRL Were you thinking of a Monkey?
+LRRRRRRR Does it have a single horn?
+LRLL Were you thinking of a Wolf?
+LRLR Were you thinking of a Dog?
+LRRRRRRRL Were you thinking of a Rhynoceros?
+LRRRRRRRR Is it some kind of dinosaur?
+LRRRRRRRRL Were you thinking of a T-Rex?
+LRRRRRRRRR Does it have stripes?
+LRRRRRRRRRL Were you thinking of a Tiger?
+LRRRRRRRRRR Is it a black and white bear?
+LRRRRRRRRRRL Were you thinking of a Panda?
+LRRRRRRRRRRR Were you thinking of a Cat?
+LLRL Were you thinking of a Zebra?
+LLRR Were you thinking of a Cow?
+RRLRRL Were you thinking of a Snake?
+RRLRRR Does it have tentacles?
+RRLRRRL Does it have an umbrella shaped body?
+RRLRRRR Were you thinking of a Whale?
+RRLRRRLL Were you thinking of a jellyfish?
+RRLRRRLR Were you thinking of an Octopus?
+RRLRLL Were you thinking of a Snake?
+RRLRLR Were you thinking of a Shark?
